@@ -29,12 +29,12 @@ const FooterSection = (props: FooterProps) => {
                   Build with &#10084; | &copy; Diana Fauziah 
                 </p>
                 <div className="d-flex justify-content-center">
-                  <a href="https://linktr.ee/ayisrhmn" target="_blank">
+                  <a href="https://www.linkedin.com/in/diana-fauziah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
                     <div className="link-sosmed">
                       <FontAwesomeIcon icon={faGlobe} color={'#414141'} />
                     </div>
                   </a>
-                  <a href="https://instagram.com/ayisrhmn" target="_blank">
+                  <a href="https://instagram.com/didianafz" target="_blank">
                     <div className="link-sosmed">
                       <FontAwesomeIcon icon={faInstagram} color={'#414141'} />
                     </div>
